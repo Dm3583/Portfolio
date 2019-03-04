@@ -1,0 +1,89 @@
+html, body {
+  position: relative; }
+
+main {
+  padding: 0px 15px 880px 15px; }
+
+.menu-color {
+  background-color: #151248; }
+
+.background-cards-departments {
+  background: white;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  min-width: 1023px; }
+
+.cards-departments-wrapper {
+  margin: 40;
+  position: relative; }
+
+.cards-departments-wrapper .card-content > span {
+  font-weight: bold;
+  margin-left: 30px; }
+
+.cards-departments-wrapper .card-content {
+  background-color: #f0efef; }
+
+.cards-departments-wrapper .card .card-image .card-title {
+  display: block !important;
+  width: 100% !important;
+  text-align: center !important;
+  top: 0 !important;
+  font-weight: 500; }
+
+.cards-departments-wrapper .card-content > span,
+.cards-departments-wrapper .card-content > p {
+  color: #3e5ba2 !important; }
+
+.cards-departments-wrapper .card-action {
+  display: -webkit-box !important;
+  display: -webkit-flex !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-justify-content: space-around !important;
+      -ms-flex-pack: distribute !important;
+          justify-content: space-around !important; }
+
+.cards-departments-wrapper .col.l4 > .card > .card-content > .row {
+  margin: 0px 0px 0px 0px !important; }
+
+.cards-departments-wrapper .cards-departments-list-wrapper {
+  display: block;
+  margin: 10px 0px 10px 0px; }
+
+.cards-departments-list-wrapper .cards-departments-item {
+  padding: 0px 24px 0px 24px;
+  display: block; }
+  .cards-departments-list-wrapper .cards-departments-item:hover {
+    cursor: pointer;
+    background-color: #f8e5d2; }
+
+.cards-departments-list-wrapper div.cards-departments-item:hover a {
+  cursor: pointer;
+  color: #3e5ba2;
+  font-weight: bold;
+  border-bottom: 1px solid transparent; }
+
+.cards-departments-wrapper .cards-departments-list-wrapper .cards-departments-item > a {
+  display: block;
+  font-size: 20px;
+  font-weight: normal;
+  color: #3e5ba2;
+  padding: 15px 0px 15px 0px;
+  border-bottom: 1px solid #3e5ba2; }
+
+.cards-departments-wrapper .card .card-action {
+  border-top: none !important;
+  padding: 24px 24px 36px 24px !important; }
+
+.cards-departments-wrapper .card .card-action > a {
+  text-transform: none !important;
+  text-decoration: underline !important; }
+
+.cards-departments-wrapper .card .card-action > a:first-child {
+  color: #3e5ba2 !important; }
+
+.cards-departments-wrapper .card .card-action > a:last-child {
+  margin-right: 0px !important; }
+
+/*# sourceMappingURL=styles.css.map */
